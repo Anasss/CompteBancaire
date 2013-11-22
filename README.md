@@ -1,0 +1,4 @@
+CompteBancaire
+==============
+
+Sample EJB project 
